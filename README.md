@@ -1,2 +1,2 @@
 # searchFile
-PHP component
+Used to list a given directory file
