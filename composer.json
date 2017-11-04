@@ -1,7 +1,7 @@
 {
     "name": "mingzhongshui/searchfile",
     "description": "Query directory file",
-    "keywords": ["url", "searchfile"],
+    "keywords": ["file", "searchfile"],
     "homepage": "https://www.mingzhongshui.cn",
     "license": "MIT",
     "authors": [
