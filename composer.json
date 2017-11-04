@@ -1,0 +1,29 @@
+{
+    "name": "mingzhongshui/searchfile",
+    "description": "Query directory file",
+    "keywords": ["url", "searchfile"],
+    "homepage": "https://www.mingzhongshui.cn",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mingzhongshui",
+            "homepage": "https://github.com/charm-v",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "in1993summer@163.com"
+    },
+    "require": {
+        "php" : ">=5.5.0",
+        "symfony/var-dumper":"*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mingzhongshui\\File\\": "src/"
+        }
+    }
+}
